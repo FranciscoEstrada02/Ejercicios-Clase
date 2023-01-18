@@ -17,6 +17,7 @@ public class Cuadrado {
     private int x4;
     private int y4;
     private double distancia4;
+    private java.lang.Object Math;
 
 
     public Cuadrado(Punto c1,Punto c2, Punto c3, Punto c4){
